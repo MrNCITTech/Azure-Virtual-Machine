@@ -1,6 +1,7 @@
 # Azure-Virtual-Machine
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png alt="Azure"/>
+
 </p>
 
 
