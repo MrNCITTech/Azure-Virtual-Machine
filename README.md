@@ -69,12 +69,14 @@ Step 4: Create VM Once the Resource group is selected, you see a Virtual Machine
 </p>
 <br
 
+Step 5 ![MS Azure Project Fill in the Basic Details 5 1](https://github.com/user-attachments/assets/8484ffa0-ae12-40f6-9333-c419a02a08f7)
+![MS Azure Project Fill in the Basic Details 5 1](https://github.com/user-attachments/assets/2154fc64-cd9e-4001-aefb-802ca23c6e27)
+![MS Azure Project Fill in the Basic Details 5 2](https://github.com/user-attachments/assets/9ede43ed-e069-4f9a-8f3b-d7ed3936f501)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Step 5: 
 <br
 
 <p>
