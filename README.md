@@ -79,12 +79,16 @@ Step 5:  1) To create your VM, please select your subscription. Upon signing up 
  7) The next step is to choose your authentication type. In Microsoft Azure, the authentication type refers to the method you use to log into your virtual machine (VM) once it is created. When you set up a VM, you'll need to specify an authentication method for securely accessing the VM. Azure provides two main authentication types. In Windows-based scenarios, it is common to use password-based authentication using a username and password. Within Linux, It is common to use SSH (Secure Shell) Key-based authentication. SSH can also be applied to Windows Server VMs. 8) Now, Choose Allow selected ports and select which ports you need to open (typically RDP for Windows or SSH for Linux). Typically, RDP 3389 will be the default option. 9) Under licensing, please check the box. This is to confirm licensing, which refers to the costs and legal rights associated with using the software, mainly operating systems and applications, within your VM. 10) At the bottom of the screen, you will now select Next: Disks>
 
 
+Step 6
+
+![MS Azure Project Fill in the Basic Details 6](https://github.com/user-attachments/assets/1c38d036-e1ed-46a5-a910-86631bc2378c)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 6: In Microsoft Azure, the OS disk is the virtual disk that contains the operating system (OS) of a virtual machine (VM). This disk is essential for the functioning of your VM, as it holds the OS image, system files, and potentially other files related to the VM's operating system. You have the option to choose the size of your disk. (e.g.), 32GB, 64GB, 128GB, etc.) You can select disk types (e.g., HDD, SSD, Ultra SSD). This will depend on your workflow. For the sake of this demonstration, we will leave these options default. Now select Next: Networking> at the bottom of the screen. 
+
 </p>
 <br
 
