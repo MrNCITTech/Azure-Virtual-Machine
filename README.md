@@ -89,22 +89,30 @@ Step 6
 <p>
 Step 6: In Microsoft Azure, the OS disk is the virtual disk that contains the operating system (OS) of a virtual machine (VM). This disk is essential for the functioning of your VM, as it holds the OS image, system files, and potentially other files related to the VM's operating system. You have the option to choose the size of your disk. (e.g.), 32GB, 64GB, 128GB, etc.) You can select disk types (e.g., HDD, SSD, Ultra SSD). This will depend on your workflow. For the sake of this demonstration, we will leave these options default. Now select Next: Networking> at the bottom of the screen. 
 
+Step 7 ![MS Azure Project Fill in the Basic Details 7](https://github.com/user-attachments/assets/cab4d1cf-a42e-445c-b65a-b06040dfee9c)
+
 </p>
 <br
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 7: Under the networking section, choose or create a new Virtual Network (VNet) for your VM to connect to. Azure will automatically suggest a default VNet in the selected region. You may also need to configure Subnet, Public IP, and Network Security Group (NSG) settings based on your VM's access needs.
+
+After completing networking, you will move to the next page, Management, Monitoring, and Advanced options. In this section, you can configure monitoring (Azure Monitor),auto-shutdown, backup, etc. These are optional but can be helpful for VM management. 
 </p>
-<br
+<be
+
+Step 8
+![MS Azure Project Review and Create VM 8 2png](https://github.com/user-attachments/assets/dc1eb807-4add-4321-a7ee-df2ab5f9b1c8)
+![MS Azure Project Review and Create VM 8 1](https://github.com/user-attachments/assets/359e7ec8-e216-4175-b8f6-1df714a79b00)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 8:
 </p>
 <br
 
