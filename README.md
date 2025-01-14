@@ -112,7 +112,7 @@ Step 8
 
 </p>
 <p>
-Step 8:
+Step 8: The portal will validate the configuration, and once it is successful, it will begin provisioning the VM. The process may take several minutes. You can check the deployment status in the portal's notifications area. Once this process is complete, please click Create. If this is successful, you should see a green check saying deployment is complete. 
 </p>
 <be
 
