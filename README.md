@@ -126,10 +126,10 @@ Step 9
 
 
 <p>
-Step 9: 
+Step 9: The last step we will consider is accessing the virtual machine. Once deployment is complete, the VM will be ready to use. For Windows VMs: Use Remote Desktop Protocol (RDP) to connect. In the Azure portal, go to your VM and click on Connect. Download the RDP file and connect using your provided username and password. For Linux VMs: Use SSH to connect. Open a terminal on your local machine and use the SSH command. Once you successfully enter your credentials, which include the public IP address, User name, and password, you will see Windows or Linux startup from within the VM. Congratulations, you have successfully created a VM using Azure. 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br
 
